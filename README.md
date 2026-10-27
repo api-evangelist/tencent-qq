@@ -65,4 +65,19 @@
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
 Tencent QQ is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://connect.qq.com/
+
+**Areas:** Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://connect.qq.com/)
+- [Documentation](https://docs.qq.com/)
+- [Support](https://support.qq.com/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/tencent-qq/](https://apis.io/providers/tencent-qq/).
